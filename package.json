@@ -1,0 +1,17 @@
+{
+  "name": "nodeClient",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "body-parser": "~1.0.0",
+	"method-override":"~2.0.2",
+	"mongoose":"*",
+	"ejs": "0.8.4",
+    "ejs-locals": "^1.0.2"
+
+  }
+}
